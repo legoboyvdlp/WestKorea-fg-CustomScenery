@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38708 34.99738 -0.47 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38708 34.99653 -0.49 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38707 34.99600 -0.50 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38707 34.99546 -0.51 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38709 34.99481 -0.53 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38706 34.99280 -0.56 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38706 34.99345 -0.55 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.38707 34.99409 -0.54 0
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38728 34.99293 -0.57 180.001
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38728 34.99358 -0.56 180.001
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38727 34.99423 -0.54 180.001
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 126.38711 34.99293 -0.56 295.605
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 126.38710 34.99358 -0.55 295.605
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 126.38709 34.99423 -0.54 295.605
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38708 34.99293 -0.56 1.28405
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38707 34.99358 -0.55 1.28405
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38706 34.99423 -0.54 1.28405
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml 126.38701 34.99267 -0.46 89.5509
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml 126.38701 34.99333 -0.45 89.5509
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml 126.38696 34.99458 -0.43 89.5509
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml 126.38700 34.99399 -0.44 89.5509
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 126.38753 34.99104 -0.60 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 126.38786 34.98883 -0.63 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac 126.38833 34.98888 -0.65 90
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98900 -95.62 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98912 -95.62 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98924 -95.62 0
+# END dsf2stg

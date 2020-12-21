@@ -1,0 +1,4 @@
+OBJECT RKUL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 127.116360 36.266346 32.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 127.110503 36.266318 30.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 127.114415 36.269390 34.2 0.00

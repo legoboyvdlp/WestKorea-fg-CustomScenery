@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/localizer.xml 126.612322 35.918758 4.66 79.09
+OBJECT_SHARED Models/Airport/localizer.xml 126.619444 35.888831 5.79 259.09
+OBJECT_SHARED Models/Communications/vordme_2.xml 126.611367 35.910367 3.92 180
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 126.615014 35.913458 4.51 191.65
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 126.619508 35.894356 3.31 11.66
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 126.61 35.9783 0 159.01
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 126.642 35.9833 -0.01 288.74
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.61627 35.92469 8.28 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.61639 35.92485 8.45 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.61574 35.92581 8.34 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 126.61525 35.92581 7.84 0
